@@ -27,7 +27,7 @@ const questions = [
         message: 'Provide instructions and examples for use. Include screenshots as needed.'
     },
     {
-        type: 'input',
+        type: 'list',
         name: 'license',
         message: 'Choose a license for your project.',
         choices: ['MIT', 'Apache2.0', 'BSD3', 'LGPL', 'MPL', 'None']
