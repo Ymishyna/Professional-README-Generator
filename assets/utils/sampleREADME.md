@@ -1,10 +1,10 @@
-# vgvgvgvg
+# Professional-README-Generator
 
-  ![Badge](https://img.shields.io/badge/license-BSD3-yellowgreen.svg)
+  ![Badge](https://img.shields.io/badge/license-MPL-yellowgreen.svg)
 
 ## Description 📝
 
-  bhhhhvh
+  When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions-this last part increases the likelihood that other developers will contribute to the success of the project. 
   
 ## Table of Contents (Optional) 🗒
 
@@ -19,29 +19,29 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation 💻
 
-  bvvgvg
+  1. Download the zip file and copy it to a directory of your choice or clone to a directory of your choice using your terminal. 
 
 ## Usage  🏆
 
-  vhvghvgh
+  2. Create a `.gitignore` file and include `node_modules/` and `.DS_Store/` so that your `node_modules` directory isn't tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
 
 ## License 📛
-    This application is covered by the BSD3 license.
+    This application is covered by the MPL license.
 
 ## Contributing  😃
  
-  hvghff
+  Any Contribution is more than welcome
 
 ## Tests  🧪
 
-  nj
+  Answer all questions in the terminal
 
 ## Questions
 
 For additional questions, contact me at the email provided below. 
 
-- Email: n n
-- GitHub: [ nn](https://github.com/ nn/)
+- Email: yana.mishina.92@gmail.com
+- GitHub: [https://github.com/Ymishyna](https://github.com/https://github.com/Ymishyna/)
 
 ---
 
