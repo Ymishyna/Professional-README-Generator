@@ -11,8 +11,11 @@ A command-line application will allow for quick and easy generation of professio
 - [Acceptance Criteria](#acceptance-criteria)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+- [Contributing](#contributing)
+- [Screen Capture](#screen-capture)
+- [Walkthrough Video](#walkthrough-video)
+- [Questions](#questions)
+
 
 ## User Story
 
@@ -47,10 +50,9 @@ THEN I am taken to the corresponding section of the README
 1. Download the zip file and copy it to a directory of your choice or clone to a directory of your choice using your terminal. 
 2. Open the file in VS Code or any editor you prefer.
 3. Open the terminal in VS Code and make sure you’re in the correct directory.
-2. Create a `.gitignore` file and include `node_modules/` and `.DS_Store/` so that your `node_modules` directory isn't tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
-3. Make sure that your repo includes a `package.json` with the required dependencies. You can create one by running `npm init` when you first set up the project, before installing any dependencies.
-4. Ensure inquirer is installed [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4).
-
+4. Create a `.gitignore` file and include `node_modules/` and `.DS_Store/` so that your `node_modules` directory isn't tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
+5. Make sure that your repo includes a `package.json` with the required dependencies. You can create one by running `npm init` when you first set up the project, before installing any dependencies.
+6. Ensure inquirer is installed [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4). Run `npm i` to install dependencies in local project directory.
 
 ## Usage
 
@@ -60,9 +62,34 @@ THEN I am taken to the corresponding section of the README
 ```bash
 node index.js
 ```
+
 3. Answer questions that follow.
 4. A sampleREADME.md will be generated and stored in "utils" folder.
 
+## Contributing
+
+Any Contribution is more than welcome!
+
 ## Screen Capture
 
+The following gif shows the application's appearance and functionality:
+
+![](/assets/images/Screen-Capture.gif)
+
 ## Walkthrough Video
+
+```
+Disclaimer: The following video provides an illustrative example of how to respond to prompts using the given content. It is intended solely for instructional purposes and to showcase the concept. Users are encouraged to utilize their own responses, thoughts, and ideas when interacting with prompts to achieve personalized and authentic outcomes. The video's content should not be considered prescriptive or definitive, as individual preferences, opinions, and circumstances vary. Viewer discretion is advised, and any actions taken based on the video's content are the responsibility of the user
+
+````
+[Walkthrough Video Link](https://drive.google.com/file/d/1YaBPneuHR064uLPLOAY6Wbn2NW87WFdT/view?usp=sharing)
+
+## Questions
+
+If you have any question, Email me at: yana.mishina.92@gmail.com
+
+Find me on GitHub: [Ymishyna](https://github.com/Ymishyna)
+
+
+
+
