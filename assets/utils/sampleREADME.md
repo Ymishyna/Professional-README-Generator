@@ -20,10 +20,16 @@ If your README is long, add a table of contents to make it easy for users to fin
 ## Installation 💻
 
   1. Download the zip file and copy it to a directory of your choice or clone to a directory of your choice using your terminal. 
+  2. Create a `.gitignore` file and include `node_modules/` and `.DS_Store/` so that your `node_modules` directory isn't tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
 
 ## Usage  🏆
 
-  2. Create a `.gitignore` file and include `node_modules/` and `.DS_Store/` so that your `node_modules` directory isn't tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
+1. Open your terminal.
+2. The application will be invoked by using the following command:
+
+```bash
+node index.js
+```
 
 ## License 📛
     This application is covered by the MPL license.
